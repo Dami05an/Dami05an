@@ -1,5 +1,7 @@
-## Hi there 👋
-
+Hi there 👋
+I'm a 21‑year‑old System & Network Administrator.
+I use this GitHub to create projects, experiment with infrastructure, and document what I learn along the way.
+I'm French‑speaking, so please excuse any English mistakes.
 <!--
 **Dami05an/Dami05an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
